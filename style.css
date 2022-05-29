@@ -1,0 +1,77 @@
+*{
+    font-family: cursive;
+}
+.vidy_ghyvotnyh {
+    background-image: url(img/background.png);
+    background-repeat: no-repeat;
+    background-size: 10000%;
+    width: 120%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hishniki {
+    background-image: url(img/myaso.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 2px solid black;
+    width: 90%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+}
+
+.travoyadnye {
+    background-image: url(img/trava.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 2px solid black;
+    width: 90%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+}
+
+.vseyadnye {
+    background-image: url(img/trms.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 2px solid black;
+    width: 90%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+}
+.cont{
+    background-image: url(img/fonforcont.jpg);
+    border: 2px solid gray;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.b{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(img/fonforcont.jpg);
+    border: 2px solid gray;
+    width: 20%;
+    height: 20%;
+}
